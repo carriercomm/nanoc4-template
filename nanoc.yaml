@@ -87,7 +87,7 @@ deploy:
 
 # Site-specific metadata
 
-base_url: http://nanoc4-template.static.localhost
+base_url: http://lifepillar.github.io/nanoc4-template
 
 site:
   name: My Site
